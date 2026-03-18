@@ -8,7 +8,7 @@ Ich baue Web-Apps, Chrome Extensions und gestalte Event-Designs.
 
 | Projekt | Beschreibung | Tech |
 |---------|--------------|------|
-|  [URBAN's Training App](https://github.com/DamasKC10/urbans-training) | Mitarbeiter-Schulungs-App für Gastronomie | React · Supabase |
+|  [URBAN's Training App](https://heartfelt-swan-ef735e.netlify.app) | Mitarbeiter-Schulungs-App für Gastronomie | React · Supabase |
 |  Chrome Extensions | Browser-Tools für Produktivität | JavaScript |
 |  Event Designs | Grafiken & Visuals für Veranstaltungen | Illustrator |
 
