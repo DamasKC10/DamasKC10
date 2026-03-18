@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hallo 👋
 
-<!--
-**DamasKC10/DamasKC10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich baue Web-Apps, Chrome Extensions und gestalte Event-Designs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aktuelle Projekte
+
+| Projekt | Beschreibung | Tech |
+|---------|--------------|------|
+|  [URBAN's Training App](https://github.com/DamasKC10/urbans-training) | Mitarbeiter-Schulungs-App für Gastronomie | React · Supabase |
+|  Chrome Extensions | Browser-Tools für Produktivität | JavaScript |
+|  Event Designs | Grafiken & Visuals für Veranstaltungen | Illustrator |
+
+---
+
+### Tech Stack
+
+```
+Frontend     React · Tailwind CSS · Framer Motion
+Backend      Supabase · REST APIs
+Design       Adobe Illustrator · Figma
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DamasKC10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+</p>
